@@ -1,6 +1,12 @@
 # ThinkpadBattery
 Open source Thinkpad battery design
 
+## Fork scope
+- Refactor firmware to make use of some of C++'s templating features to make it more readable and better documented.
+- Redesign board to use a thermistor and connect directly to the 7 pin connector. Possibly use a battery gas gauge.
+- Redesign case to more cleanly incorporate the board and a recommended BMS.
+- Provide better documentation on the Thinkpad's specific smart battery protocol instructions.
+
 ## What is this?
 
 This is a fully open source laptop battery design. The design uses an attiny85, which can reply to the T420 motherboard's SMBUS requests.
