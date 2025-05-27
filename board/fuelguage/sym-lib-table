@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "battery")(type "KiCad")(uri "${KIPRJMOD}/battery.kicad_sym")(options "")(descr ""))
+  (lib (name "Thinkpad")(type "KiCad")(uri "${KIPRJMOD}/Thinkpad.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2944IDD#PBF")(type "KiCad")(uri "${KIPRJMOD}/LTC2944IDD#PBF.kicad_sym")(options "")(descr ""))
+)
